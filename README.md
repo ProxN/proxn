@@ -14,8 +14,6 @@ I'm a Front-End Web Developer.
 ![VSCode](https://img.shields.io/badge/-vscode-00a8e8?style=for-the-badge&logo=visual-studio-code)
 ![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
 
-<br />
-
 ## Github Summary
 
 [![Proxn github stats](https://github-readme-stats.vercel.app/api?username=proxn&show_icons=true&theme=radical)](https://github.com/proxn)
