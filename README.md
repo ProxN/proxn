@@ -1,9 +1,8 @@
 ### Hey 👋, I am Ayoub  
 
-I'm a Front-End Web Developer.
+I'm a Front-End Developer.
 
-## What I'm doing 
-- 🌱 I’m currently learning Reactjs and typescript 
+
 
 ## Languages & Tools
 ![HTML](https://img.shields.io/badge/html%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white)
